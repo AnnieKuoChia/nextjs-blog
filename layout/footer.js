@@ -1,7 +1,7 @@
 const Footer = () => {
     return(
         <div className="footer">
-            <div className="footerLink">
+            <div className="footerLink container">
                 <div className="footerBlock">
                     <h3 className="footerTitle">條款說明</h3>
                     <a href="#" className="footerLink commingSoon">服務條款</a>
